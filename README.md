@@ -1,1 +1,1 @@
-#NTU cs sc1015
+NTU cs sc1015
